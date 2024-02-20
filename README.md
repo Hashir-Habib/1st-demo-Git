@@ -1,2 +1,3 @@
 # 1st-demo-Git
-demo &lt;br> Author Hashir-Habib
+demo<br> 
+Author Hashir-Habib
